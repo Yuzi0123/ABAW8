@@ -7,3 +7,9 @@
 This project aims to address the problem of Compound Expression Recognition by leveraging Large Vision-Language Models.
 
 ---
+
+## Requirements
+cd ms-swift
+pip install -e '.[all]'
+
+---
