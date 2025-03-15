@@ -10,6 +10,7 @@ This project aims to address the problem of Compound Expression Recognition by l
 
 ## Requirements
 cd ms-swift
+
 pip install -e '.[all]'
 
 ---
