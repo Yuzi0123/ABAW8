@@ -1,0 +1,56 @@
+.. swift documentation file,
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Swift DOCUMENTATION
+========================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Get Started
+
+   GetStarted/SWIFT-installation.md
+   GetStarted/Quick-start.md
+   GetStarted/Web-UI.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Instruction
+
+   Instruction/Command-line-parameters.md
+   Instruction/Pre-training-and-Fine-tuning.md
+   Instruction/RLHF.md
+   Instruction/Inference-and-deployment.md
+   Instruction/Sample.md
+   Instruction/Evaluation.md
+   Instruction/Export-and-push.md
+   Instruction/Reinforced-Fine-tuning.md
+   Instruction/GRPO.md
+   Instruction/Supported-models-and-datasets.md
+   Instruction/Use-tuners.md
+   Instruction/Agent-support.md
+   Instruction/Frequently-asked-questions.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Customization
+
+   Customization/Custom-model.md
+   Customization/Custom-dataset.md
+   Customization/Plugin.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Best Practices
+
+   BestPractices/GRPO-Code-Training.md
+   BestPractices/NPU-support.md
+   BestPractices/More-Best-Practices.md
+
+Indices and tables
+==================
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

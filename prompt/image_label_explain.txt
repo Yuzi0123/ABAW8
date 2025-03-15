@@ -1,0 +1,3 @@
+This is a facial expression classification task for the people in the image. The expression categories are limited to the following types: Fearfully Surprised, Happily Surprised, Sadly Surprised, Disgustedly Surprised, Angrily Surprised, Sadly Fearful, Sadly Angry. Given that the correct category is <label>, please provide an explanation based on the facial details, body movements and background environment of the image. Output in the following format:
+Analysis: ...
+Conclusion: The facial expression of the person in the image is '...'
